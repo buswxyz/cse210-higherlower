@@ -1,0 +1,5 @@
+C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.csproj.AssemblyReference.cache
+C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.AssemblyInfoInputs.cache
+C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.AssemblyInfo.cs
+C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.csproj.CoreCompileInputs.cache
