@@ -1,7 +1,7 @@
 class Dealer{
    Random rnd = new Random();
 
-    public int selectCard(){
+   public int selectCard(){
 
         int x = 51;
         int card = rnd.Next(0, x);
