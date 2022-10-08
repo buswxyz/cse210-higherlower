@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\busta\\.nuget\\packages\\": {}
+    "C:\\Users\\JensenCall\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\busta\\git\\cse210-higherlower\\cse210-higherlower.csproj",
+      "projectUniqueName": "C:\\Users\\JensenCall\\Documents\\BYU I 2021\\Fall 2022\\Programming with Classes\\cse210-higherlower\\cse210-higherlower.csproj",
       "projectName": "cse210-higherlower",
-      "projectPath": "C:\\Users\\busta\\git\\cse210-higherlower\\cse210-higherlower.csproj",
-      "packagesPath": "C:\\Users\\busta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\busta\\git\\cse210-higherlower\\obj\\",
+      "projectPath": "C:\\Users\\JensenCall\\Documents\\BYU I 2021\\Fall 2022\\Programming with Classes\\cse210-higherlower\\cse210-higherlower.csproj",
+      "packagesPath": "C:\\Users\\JensenCall\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JensenCall\\Documents\\BYU I 2021\\Fall 2022\\Programming with Classes\\cse210-higherlower\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\busta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\JensenCall\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

@@ -13,3 +13,18 @@ C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\refint\cse210-higherlower
 C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.pdb
 C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.genruntimeconfig.cache
 C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\ref\cse210-higherlower.dll
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\bin\Debug\net6.0\cse210-higherlower.exe
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\bin\Debug\net6.0\cse210-higherlower.deps.json
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\bin\Debug\net6.0\cse210-higherlower.runtimeconfig.json
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\bin\Debug\net6.0\cse210-higherlower.dll
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\bin\Debug\net6.0\cse210-higherlower.pdb
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.csproj.AssemblyReference.cache
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.AssemblyInfoInputs.cache
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.AssemblyInfo.cs
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.csproj.CoreCompileInputs.cache
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.dll
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\obj\Debug\net6.0\refint\cse210-higherlower.dll
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.pdb
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.genruntimeconfig.cache
+C:\Users\JensenCall\Documents\BYU I 2021\Fall 2022\Programming with Classes\cse210-higherlower\obj\Debug\net6.0\ref\cse210-higherlower.dll
