@@ -3,3 +3,13 @@ C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.Genera
 C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.AssemblyInfoInputs.cache
 C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.AssemblyInfo.cs
 C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.csproj.CoreCompileInputs.cache
+C:\Users\busta\git\cse210-higherlower\bin\Debug\net6.0\cse210-higherlower.exe
+C:\Users\busta\git\cse210-higherlower\bin\Debug\net6.0\cse210-higherlower.deps.json
+C:\Users\busta\git\cse210-higherlower\bin\Debug\net6.0\cse210-higherlower.runtimeconfig.json
+C:\Users\busta\git\cse210-higherlower\bin\Debug\net6.0\cse210-higherlower.dll
+C:\Users\busta\git\cse210-higherlower\bin\Debug\net6.0\cse210-higherlower.pdb
+C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.dll
+C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\refint\cse210-higherlower.dll
+C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.pdb
+C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\cse210-higherlower.genruntimeconfig.cache
+C:\Users\busta\git\cse210-higherlower\obj\Debug\net6.0\ref\cse210-higherlower.dll

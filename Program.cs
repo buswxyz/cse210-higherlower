@@ -7,7 +7,7 @@
         int score = 300;
         List<string> cardList = deck.createDeck(deck.cards);
         int previousCard = 7;
-        while(score != 0 || cardList.Count != 0){
+        while(score != 0 && cardList.Count != 0){
             int selectedCard = dealer.selectCard();
             Console.WriteLine($"The current card is {previousCard}. Will the next card be HIGHER or LOWER?:");
             string? playerAnswer = Console.ReadLine();
@@ -34,15 +34,15 @@
 
             cardList.RemoveAt(selectedCard);
                
-
         }
 
-        bool checkDeckSize(List<string> cardList){
-
-            return true;
+        if(score <= 0){
+            Console.WriteLine("Your score has reached 0, the game has now ended.");
         }
-
-
+        
+        if(cardList.Count == 0){
+            Console.WriteLine($"The deck is now out of cards, your final score is {score}.");
+        }
     }
 
 }
