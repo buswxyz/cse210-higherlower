@@ -31,7 +31,9 @@
                     Console.WriteLine($"The card you drew was {selectedCard} which is higher than {previousCard} meaning you lose 75 points, setting your total to {score}!");
                 }
             }
-
+            else{
+                Console.WriteLine("That was not a valid answer please either write HIGHER or LOWER");
+            }
             cardList.RemoveAt(selectedCard);
                
         }
