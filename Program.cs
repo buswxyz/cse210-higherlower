@@ -12,7 +12,7 @@
             string cardnumber= cardList[selectedCard];
             int test = Int32.Parse(cardnumber);
             Console.WriteLine($"The current card is {previousCard}. Will the next card be HIGHER or LOWER?:");
-            string playerAnswer = "HIGHER";
+            string? playerAnswer = "HIGHER";
             playerAnswer = Console.ReadLine();
             
             if (playerAnswer == "HIGHER"){
