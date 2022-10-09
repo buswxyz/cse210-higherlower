@@ -1,11 +1,10 @@
 class Dealer{
    Random rnd = new Random();
+   int cardCount = 51;
+   public int selectCard(int cardCount){
 
-   public int selectCard(){
-
-        int x = 51;
-        int card = rnd.Next(0, x);
-        x = x - 1;
+        int card = rnd.Next(0, cardCount);
+        cardCount = cardCount - 1;
         
         return card;
    }

@@ -7,8 +7,10 @@
         int score = 300;
         List<string> cardList = deck.createDeck(deck.cards);
         int previousCard = 7;
+        int cardCount = 51;
         while(score > 0 && cardList.Count > 0){
-            int selectedCard = dealer.selectCard();
+            int selectedCard = dealer.selectCard(cardCount);
+            cardCount = cardCount - 1;
             string cardnumber= cardList[selectedCard];
             int test = Int32.Parse(cardnumber);
             Console.WriteLine($"The current card is {previousCard}. Will the next card be HIGHER or LOWER?:");
